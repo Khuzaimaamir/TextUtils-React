@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Khuzaimaamir/TextUtils-React.git/static/css/main.213186b5.css",
+    "main.js": "/Khuzaimaamir/TextUtils-React.git/static/js/main.b74bd916.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Khuzaimaamir/TextUtils-React.git/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Khuzaimaamir/TextUtils-React.git/index.html",
+    "main.213186b5.css.map": "/Khuzaimaamir/TextUtils-React.git/static/css/main.213186b5.css.map",
+    "main.b74bd916.js.map": "/Khuzaimaamir/TextUtils-React.git/static/js/main.b74bd916.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Khuzaimaamir/TextUtils-React.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.213186b5.css",
+    "static/js/main.b74bd916.js"
+  ]
+}
